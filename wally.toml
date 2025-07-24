@@ -1,9 +1,12 @@
 [package]
 name = "vyon/vluau"
 description = "vLuau is a Luau VM with compiler which can be ran in Roblox."
-version = "0.1.0"
+version = "0.1.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 authors = ["kosuke14 (https://github.com/kosuke14)"]
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml"]
 
 [dependencies]
