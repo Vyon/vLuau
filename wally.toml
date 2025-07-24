@@ -4,6 +4,6 @@ description = "vLuau is a Luau VM with compiler which can be ran in Roblox."
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
-authors = "kosuke14 <https://github.com/kosuke14>"
+authors = ["kosuke14 (https://github.com/kosuke14)"]
 
 [dependencies]
